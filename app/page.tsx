@@ -62,7 +62,7 @@ const facts = [
   { icon: "clock", title: "Open 7 days", text: "9 a.m. to 5 p.m." },
 ];
 
-const area = ["London", "North London", "South London", "East London", "West London", "Byron", "Masonville", "Old North", "Westmount", "Lambeth"];
+const area = ["London, Ontario", "Homes across the city", "Just outside London? Call and ask"];
 
 const jsonLd = {
   "@context": "https://schema.org",
